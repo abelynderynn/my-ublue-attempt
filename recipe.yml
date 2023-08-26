@@ -74,8 +74,12 @@ rpm:
     - firefox-langpacks
     - htop
     - nvtop
+
+    # I hate plymouth
     - plymouth
     - plymouth-scripts
+    - plymouth-plugin-two-step
+    - plymouth-plugin-label
 
 # Configuration for the "first boot" experience, which is available after login.
 firstboot:
