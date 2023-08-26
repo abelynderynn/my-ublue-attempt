@@ -74,6 +74,7 @@ rpm:
     - firefox-langpacks
     - htop
     - nvtop
+    - plymouth
 
 # Configuration for the "first boot" experience, which is available after login.
 firstboot:
