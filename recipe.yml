@@ -80,6 +80,8 @@ rpm:
     - plymouth-scripts
     - plymouth-plugin-two-step
     - plymouth-plugin-label
+    - plymouth-system-theme
+    - plymouth-theme-spinner
 
 # Configuration for the "first boot" experience, which is available after login.
 firstboot:
