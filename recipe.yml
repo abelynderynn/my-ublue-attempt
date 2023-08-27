@@ -74,6 +74,7 @@ rpm:
     - nvtop
     - vim
     - gnome-terminal
+    - gnome-terminal-nautilus
 
     # I hate plymouth
     - plymouth
